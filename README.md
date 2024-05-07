@@ -1,6 +1,6 @@
 # Project Title
 
-PacMen-Exercise
+PacMen Exercise
 
 ## Description of Project
 
